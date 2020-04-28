@@ -29,13 +29,13 @@ social:
   link: '#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/jennifer_lin16
+- icon: linkedin-in
+  icon_pack: fab
+  link: https://www.linkedin.com/in/jennifer-lin-245268147/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/lin-jennifer
 superuser: true
 title: Jennifer Lin
 user_groups:
