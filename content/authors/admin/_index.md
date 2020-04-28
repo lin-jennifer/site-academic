@@ -11,8 +11,8 @@ education:
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: BA in Psychology and Political Science
+    institution: New College of Florida
     year: 2008
 email: ""
 interests:
@@ -20,9 +20,9 @@ interests:
 - Computational Linguistics
 - Information Retrieval
 organizations:
-- name: Stanford University
+- name: Northwestern University
   url: ""
-role: Professor of Artificial Intelligence
+role: Ph.D. Student in Political Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -37,7 +37,7 @@ social:
   icon_pack: fab
   link: https://github.com/gcushen
 superuser: true
-title: Nelson Bighetti
+title: Jennifer Lin
 user_groups:
 - Researchers
 - Visitors
