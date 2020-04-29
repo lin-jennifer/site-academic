@@ -8,7 +8,7 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   Vestibulum sit amet erat at nulla eleifend gravida.
 authors:
 - admin
-- Robert Ford
+- Jack
 date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
@@ -24,7 +24,7 @@ projects:
 publication: In *Source Themes Conference*
 publication_short: In *STC*
 publication_types:
-- "1"
+- "7"
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
@@ -34,7 +34,7 @@ tags:
 title: Honors Thesis
 url_code: '#'
 url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: files/Bacc-Thesis.pdf
 url_poster: '#'
 url_project: ""
 url_slides: ""

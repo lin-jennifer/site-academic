@@ -1,27 +1,24 @@
 ---
 authors:
 - admin
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
+  - course: Ph.D. in Political Science
+    institution: Northwestern University
+    year: (Exoected) 2025
   - course: BA in Psychology and Political Science
     institution: New College of Florida
-    year: 2008
+    year: 2020
 email: ""
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Political Behavior
+- Quantitative Research Methods
+- Political Psychology
+- Experiments and Causal Inferences
 organizations:
 - name: Northwestern University
-  url: ""
+  url: "https://www.polisci.northwestern.edu/"
 role: Ph.D. Student in Political Science
 social:
 - icon: envelope
@@ -40,9 +37,8 @@ superuser: true
 title: Jennifer Lin
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a student in Political Science.
 
 
