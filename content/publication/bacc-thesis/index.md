@@ -12,7 +12,7 @@ authors:
 date: "2013-07-01T00:00:00Z"
 doi: ""
 featured: true
-image: 
+image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
@@ -31,7 +31,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 tags:
 - Source Themes
-title: An example conference paper
+title: Honors Thesis
 url_code: '#'
 url_dataset: '#'
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
