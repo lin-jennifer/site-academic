@@ -2,7 +2,7 @@
 header:
   caption: ""
   image: ""
-title: Blog Posts
-view: 2
+title: Code Projects and Packages
+view: 3
 ---
 
