@@ -37,3 +37,26 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# -- Other Ignore Things----
+
+# website build
+public
+
+# files generated from source
+resources/_gen
+
+# ---- BLOGDOWN ----
+# cache gets sent to /blogdown/
+blogdown/post/*_cache
+
+# figs get sent to /static/.../path/to/file
+# let's hide them for now
+static/courses/*/*_files
+static/courses/*/*_files
+# !static/courses/*/*pdf
+static/post/
+
+# HTML files generated from .Rmd
+content/post/*.html
+content/code/*.html
