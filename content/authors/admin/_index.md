@@ -13,8 +13,9 @@ education:
 email: ""
 interests:
 - Political Behavior
-- Quantitative Research Methods
+- Public Opinion
 - Political Psychology
+- Quantitative Social Science Research Methods
 - Experiments and Causal Inferences
 organizations:
 - name: Northwestern University

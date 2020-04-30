@@ -86,7 +86,8 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "601 University Pl", city = "Evanston", region = "IL", postcode = "60201", country = "United States", country_code = "US"}
+# Format: street = "601 University Pl", city = "Evanston", region = "IL", postcode = "60201", country = "United States", country_code = "US"
+address = {street = "601 University Place", city = "Evanston", region = "IL", postcode = "60201", country = "United States", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -110,7 +111,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "at", icon_pack = "fas", name = "jenniferlin2025@u.northwestern.edu", link = "mailto:jenniferlin2025@u.northwestern.edu"},
-  {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/jennifer_lin16"},
+  {icon = "twitter", icon_pack = "fab", name = "@jennifer_lin16", link = "https://twitter.com/jennifer_lin16"},
   {icon = "github", icon_pack = "fab", name = "lin-jennifer", link = "https://github.com/lin-jennifer"},
   # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
   # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},

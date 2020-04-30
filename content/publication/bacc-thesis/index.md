@@ -1,51 +1,29 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed
-  ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis
-  sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida
-  egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
-  dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
-  Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: In every civilization lies a set of morals, ethics, and values that people respect. These systems build customs and traditions that makes each culture unique. The Moral Foundations Theory was constructed to explain universal human values that are shared by each of these cultures despite their idiosyncrasies. This theory consists of five foundations of Harm, Fairness, Ingroup, Authority and Purity. The Harm and Fairness foundations are focused on the individual while the Ingroup, Authority and Purity foundations are based on the community. Despite these foundations' goal to explain the morals and values surrounding different cultures, the Moral Foundations Theory can also be used to explain the moral differences between liberals and conservatives in the United States. This is because the differences between the political cultures surrounding these ideologies have become so distinct that they resemble unique civilizations on their own. A seminal paper in this field was published by Jesse Graham, Jonathan Haidt and Brian Nosek (2009) which uses four distinct methods to make the assertion that liberals are more likely to use the individualizing foundations of Harm and Fairness while conservatives are more likely to use the binding foundations of Ingroup, Authority and Purity. While this thesis is a replication of Graham et. al. (2009) at core, it also aims to expand the scope of the project. In this project, data originates from respondents in the general public and political elites. By using these sources, I hope to compare the differences in the conceptualization of morality between liberals and conservatives, but also to see how these patterns map between political elites and the public. This project utilizes the Cooperative Congressional Elections Study (CCES), The American Panel Study (TAPS), Measuring Morality, and data from YourMorals.org that represents the opinions from the mass public. Additionally, this project utilizes speeches from the 2016 Democrat and Republican National Convention to represent an image of the moral appeals and mindset in partisan elites. The results of this project shows that liberals and conservatives, generally, have a moral framework that follows Graham et. al. (2009). Liberals tend to be more likely to value the individualizing foundation and conservatives tend to value the binding foundations. The results also show that people in the same party, both elites and the general public, hold these same moral frameworks. Ultimately, we conclude that the moral values embodied by the politicians are also reflected in the views of the people, especially those who most strongly identify with the party's ideology.
 authors:
 - admin
-date: "2013-07-01T00:00:00Z"
+date: "2020-05-15"
 doi: ""
 featured: true
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ""
-  preview_only: false
 links:
-- name: Custom Link
-  url: http://example.org
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+- name: Project Website
+  url: https://lin-jennifer.github.io/MeasuringMorality/
+  icon_pack: fas
+  icon: globe
+- name: GitHub
+  url: https://github.com/lin-jennifer/MoralityReplication
+  icon_pack: fab
+  icon: github
+publication: In *New College of Florida Thesis Collections*
+publication_short: In *NCF Thesis Collections*
 publication_types:
 - "7"
-publishDate: "2017-01-01T00:00:00Z"
-slides: example
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
-  ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+publishDate: "2020-05-15"
+summary: A reproduction and expansion on the Moral Foundations research by Jesse Graham, Jonathan Haidt and Brian Nosek (2009)
 tags:
-- Source Themes
-title: Honors Thesis
-url_code: '#'
-url_dataset: '#'
+- Moral Foundations
+- Political Psychology
+title: Measuring Morality
 url_pdf: files/Bacc-Thesis.pdf
-url_poster: '#'
-url_project: ""
-url_slides: ""
-url_source: '#'
-url_video: '#'
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
