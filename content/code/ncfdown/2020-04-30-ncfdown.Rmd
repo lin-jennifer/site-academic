@@ -1,0 +1,41 @@
+---
+title: '`ncfdown`: A R Markdown Template for New College of Florida'
+author: Jennifer Lin
+date: '2020-04-30'
+slug: ncfdown
+categories: ["Code"]
+tags: ["R", "R Markdown"]
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-04-30'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+*This template was made based off the style created by [Yan Holtz](https://github.com/holtzy) in the [epuRate](https://github.com/holtzy/epuRate) template. Thank you for your inspiration and assistance in creating this template*
+
+## Demo
+
+See it in action here: https://lin-jennifer.github.io/ncfdown/
+
+## Using this Template
+
+Install this template using `devtools`
+
+```
+library(devtools)
+install_github("lin-jennifer/ncfdown")
+library(ncfdown)
+```
+
+## Package Options
+
+For this package, there are several options under the `output:` category on the `YAML`:
+
+1. `ncf`:
+2. `ncfweb`:
