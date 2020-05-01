@@ -9,7 +9,7 @@ title = "Jennifer Lin"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://lin-jennifer.github.io/"
 
 publishDir = "../lin-jennifer.github.io"
 
@@ -25,7 +25,7 @@ copyright = "&copy; {year}"
 theme = "hugo-academic"
 
 # Get last modified date for content from Git?
-enableGitInfo = false
+enableGitInfo = true
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"

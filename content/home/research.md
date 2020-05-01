@@ -67,6 +67,6 @@ subtitle = "Works in Progress"
  css_class = ""
 +++
 
-{{% alert note %}}
+<!--{{% alert note %}}
 Quickly discover relevant content by [filtering projects]({{< ref "/research/_index.md" >}}).
-{{% /alert %}}
+{{% /alert %}} -->
