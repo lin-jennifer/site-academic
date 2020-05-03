@@ -29,6 +29,7 @@ links:
 
 The outcome of the poster can be seen here: https://github.com/lin-jennifer/NCFPoster/blob/master/main.pdf
 
+{{< figure library="true" src="ncfposter.png" title="Poster Output" lightbox="true" >}}
 
 ## Using this Template
 
