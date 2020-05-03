@@ -29,7 +29,7 @@ links:
 
 The outcome of the poster can be seen here: https://github.com/lin-jennifer/NCFPoster/blob/master/main.pdf
 
-{{< figure library="true" src="ncfposter.png" title="Poster Output" lightbox="true" >}}
+{{< figure library="false" src="ncfposter.png" title="Poster Output" lightbox="true" >}}
 
 ## Using this Template
 
@@ -40,3 +40,4 @@ If you choose to delete some of the demo objects in the file in favor of your ow
 1. `main.tex`: The root file that contains the temaplate for the poster seen in the demo. You can rename this to be whatever you like.
 2. `ncftheme.sty`: Contains the code for the colors and the design that the poster needs
 3. `Images/`: This serves as the established graphics path and contains the New College logo for the top of the poster.
+
