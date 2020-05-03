@@ -7,8 +7,8 @@
   active = true  # Activate this widget? true/false
   weight = 50  # Order that this section will appear.
   
-  title = "Code Projects"
-  subtitle = ""
+title = "Code Projects"
+subtitle = ""
   
   [content]
   # Page type to display. E.g. post, talk, or publication.

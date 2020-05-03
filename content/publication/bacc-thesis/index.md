@@ -24,7 +24,6 @@ tags:
 - Moral Foundations
 - Political Psychology
 title: Measuring Morality
-url_pdf: files/Bacc-Thesis.pdf
-weight: 90
+url_pdf: bacc-thesis.pdf
 ---
 
