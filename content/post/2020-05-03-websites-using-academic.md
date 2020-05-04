@@ -35,6 +35,8 @@ However, the good news is that once you get over the learning curve, it is quite
 
 ## What I Learned
 
+*Please note that this list was based on the structure of Version 4.9. I will continue to update this list as I learn more*
+
 As I discussed earlier, there can be a learning curve to the site. In the rest of this post, I will attempt to document all the tips I found handy in my process of getting accustomed to the site. In this process, I assume that you are using Blogdown and have [read the book](https://bookdown.org/yihui/blogdown/) to know how to [initiate an Academic site](https://bookdown.org/yihui/blogdown/other-themes.html)[^1]
 
 1. Assuming you don't already know Markdown, learn some basic syntax. Academic's documentation provides a [great guide to do this](https://sourcethemes.com/academic/docs/writing-markdown-latex/). It also helps to have a general understanding of HTML syntax as well.
@@ -47,6 +49,8 @@ As I discussed earlier, there can be a learning curve to the site. In the rest o
 4. Regardless of the approach you use to create and edit your site, ***DO NOT TOUCH*** the `themes/` folder in your site source. You can mirror the file structure under the `themes/` folder to create your own content, as [explained here](https://sourcethemes.com/academic/docs/page-builder/).
 5. When building with Blogdown and deplaying to GitHub pages, I recommend using a two repository system where one serves as the `source` and the other is the publish directory. This is because there are some challenges for GitHub pages to get along with Hugo.[^2] For this website, I have a source repository where I make my edits and publish it to my website directory (`lin-jennifer.github.io`). You can use this system by adding `publishDir = "../USERNAME.github.io"` to your `config.toml` file, where `USERNAME` is your GitHub username.
 6. Unless you have a good reason for why you need the `.Rmd`, use standard `.md` files for posts. It makes inserting images and other shortcuts more straightforward.
+7. When inserting things, it is probably easier to use [Hugo shortcodes](https://gohugo.io/content-management/shortcodes/) and [Academic-specific shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/#icons) rather than standard Markdown methods of inserting images, videos, embeds and others.
+8. **Patience.** Your site won't update immediately after `update.sh` tells you that it has been pushed to GitHub. It will take a hot minute...
 
 [^1]: All this could be done using point-and-click in R Studio as well. Simply go to `File` &rarr; `New Project` &rarr; `New Directory` &rarr; `Website using Blogdown` and select the options that you want, including `gcushen/hugo-academic` in the theme field to signal Academic as your theme.
 
