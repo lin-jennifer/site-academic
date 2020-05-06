@@ -40,6 +40,6 @@ user_groups:
 - Researchers
 ---
 
-I am a student in Political Science.
+I am a Ph.D. Student in Political Science at Northwestern University. I study American politics, specifically focused in political psychology, political behavior and public opinion. I also study political methodology with a focus on experiments, surveys and quantitative research methods. 
 
 
