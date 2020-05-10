@@ -25,33 +25,38 @@
 
 [[main]]
   name = "Publications"
-  url = "#publications"
+  url = "publication/"
   weight = 10
+
+[[main]]
+  name = "Presentations"
+  url = "talk/"
+  weight = 20
   
 [[main]]
   name = "Research"
-  url = "#research"
-  weight = 20
+  url = "research/"
+  weight = 50
 
 [[main]]
    name = "Teaching"
    url = "courses/"
-   weight = 30
+   weight = 60
    
 [[main]]
    name = "Blog"
    url = "post/"
-   weight = 40
+   weight = 70
 
 [[main]]
    name = "Packages"
    url = "code/"
-   weight = 50
+   weight = 80
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 90
 
 
 # Link to a PDF of your resume/CV from the menu.
@@ -59,4 +64,4 @@
 [[main]]
   name = "CV"
   url = "files/CV.pdf"
-  weight = 70
+  weight = 100
