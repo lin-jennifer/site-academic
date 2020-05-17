@@ -6,6 +6,9 @@ layout: docs
 title: Teaching Experience
 ---
 
+## Teaching Statement
+
+<embed src="./files/CV.pdf" width="1000" height="800" frameborder="0" allowfullscreen>
 
 ## Courses
 
