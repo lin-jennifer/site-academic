@@ -7,7 +7,7 @@ categories: ["Code"]
 tags:
   - latex
 subtitle: ''
-summary: ''
+summary: 'Tikz poster for LaTeX using colors inspired by New College of Florida'
 authors: []
 lastmod: '2020-05-03'
 featured: no
