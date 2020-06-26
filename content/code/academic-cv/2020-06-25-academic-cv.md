@@ -8,7 +8,7 @@ categories:
 tags:
   - latex
 subtitle: ''
-summary: 'A Professional CV template for Academics'
+summary: 'A Professional CV template for Academics using $\mathrm{\LaTeX}$'
 authors: []
 lastmod: '2020-06-25T15:23:37-04:00'
 featured: no
@@ -31,7 +31,7 @@ For a demo of the template, see my [CV](https://lin-jennifer.github.io/files/CV.
 
 ## Using This Template
 
-To access this template, clone my [LaTeX Templates GitHub Repository](https://github.com/lin-jennifer/LaTeXTemplates) and extract the CV folder. 
+To access this template, clone my [$\mathrm{\LaTeX}$ Templates GitHub Repository](https://github.com/lin-jennifer/LaTeXTemplates) and extract the CV folder. 
 
 There are three main files
 
@@ -44,5 +44,6 @@ There are three main files
 1. **Table of Contents** -- When using Adobe reader for PDFs, the section and subsection headers are labeled and thus can appear on the left-hand panel for easy cross-reference
 2. **Section Headings** -- These follow the style in [Trey Hunner's Resume](https://github.com/treyhunner/resume) containing the title of the section followed by a line spanning the entire width of the page.
 3. **Subsection Headings** -- These follow the style of the two-column style CVs such as [Vuong V. Trinh's CV](https://www.overleaf.com/articles/vuong-v-trinhs-cv/rwjrnbbbtgdy) such that the heading is on the left and the main text is on the right.
+4. **Numbering Environment** -- Allows for both forward and reverse numbering environments
 
 

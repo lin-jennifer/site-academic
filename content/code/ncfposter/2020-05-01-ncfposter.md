@@ -1,5 +1,5 @@
 ---
-title: '`ncfposter`: A `tikzposter` for New College of Florida'
+title: 'NCF Poster'
 author: Jennifer Lin
 date: '2020-05-01'
 slug: ncfposter
@@ -7,7 +7,7 @@ categories: ["Code"]
 tags:
   - latex
 subtitle: ''
-summary: 'Tikz poster for LaTeX using colors inspired by New College of Florida'
+summary: 'Tikz poster for $\mathrm{\LaTeX}$ using colors inspired by New College of Florida'
 authors: []
 lastmod: '2020-05-03'
 featured: no
