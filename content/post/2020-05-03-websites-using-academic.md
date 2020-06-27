@@ -1,5 +1,5 @@
 ---
-title: 'Websites using Academic: What I Learned and What I Wish I Knew'
+title: 'Websites using Academic'
 author: Jennifer Lin
 date: '2020-05-03'
 slug: websites-using-academic
@@ -7,8 +7,8 @@ categories: ["Documentation"]
 tags:
   - R
   - Websites
-subtitle: ''
-summary: ''
+subtitle: 'What I Learned and What I Wish I Knew'
+summary: 'A laundry list of some Hugo Academic tips that I (still) find useful.'
 authors: []
 lastmod: '2020-05-03'
 featured: no
