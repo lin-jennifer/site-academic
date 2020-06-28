@@ -116,7 +116,7 @@ Here are some possible opportunities -- some of these are general, some are spec
 
 1. The Ohio State University [Graduate and Professional Student Recruitment Initiative](https://odi.osu.edu/graduateprofessional-student-recruitment-initiative-gps?fbclid=IwAR1o3RnfxrMqNU6vKA4dzFwuM82Dc2N_gBuIVh-LY_XhiHA3UxBtT3WpHVw)
 2. Purdue University [Graduate Diversity Visitation Program](https://www.purdue.edu/gradschool/diversity/programs/graduate-diversity-visitation-program/?fbclid=IwAR31YFTkv1d-hvEX7ASU-AMuWMsNxneAENxJhWPTVQKmTx8NVM5SJGmJtVY)
-3. University of Michigan Political Science Emerging Scholars Conference (ask you Political Science Professor about this)
+3. University of Michigan Political Science Emerging Scholars Conference (ask your Political Science Professor about this)
 4. University of Wisconsin -- Madison Political Science [Diversity Visiting Day](https://polisci.wisc.edu/commitment-to-diversity/diversity-recruitment-conference/)
 5. Northwestern University [Introduction to Graduate Education](https://www.tgs.northwestern.edu/diversity/diversity-recruitment/introduction-to-graduate-education-igen.html)
 6. University of Illinois -- Urbana-Champaign [Aspire Illinois](https://grad.illinois.edu/diversity/aspire)

@@ -2,7 +2,7 @@
   # A Recent Blog Posts section created with the Pages widget.
   # This section displays recent blog posts from `content/code/`.
   
-  widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
+  widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
   headless = true  # This file represents a page section.
   active = true  # Activate this widget? true/false
   weight = 50  # Order that this section will appear.
@@ -29,17 +29,17 @@ subtitle = ""
   # Default filter index (e.g. 0 corresponds to the first `[[filter_button]]` instance below).
   filter_default = 0
   
-  [[content.filter_button]]
-    name = "All"
-    tag = "*"
+  #[[content.filter_button]]
+  #  name = "All"
+  #  tag = "*"
   
-  [[content.filter_button]]
-    name = "R"
-    tag = "R"
+  #[[content.filter_button]]
+  #  name = "R"
+  #  tag = "R"
   
-  [[content.filter_button]]
-    name = "LaTeX"
-    tag = "latex"
+  #[[content.filter_button]]
+  #  name = "LaTeX"
+  #  tag = "latex"
 
   
   # Page order. Descending (desc) or ascending (asc) date.
@@ -59,7 +59,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 2
+  view = 3
   
   [design.background]
   # Apply a background color, gradient, or image.
