@@ -20,12 +20,12 @@ view: 6
 
 ### For R
 
-- [ncfdown](./ncfdown/ncfdown/)
+- [ncfdown](./ncfdown/)
 
 ### For $\mathrm{\LaTeX}$
 
-- [Academic CV](./academic-cv/academic-cv/)
-- [ncfposter](./ncfposter/ncfposter/)
+- [Academic CV](./academic-cv/)
+- [ncfposter](./ncfposter/)
 
 # Documentation for My Code Projects
 
