@@ -21,9 +21,9 @@ view: 6
 
 ### For R
 
-- [ncfdown](https://lin-jennifer.github.io/package/ncfdown/)
+- [ncfdown](/package/ncfdown/)
 
 ### For $\mathrm{\LaTeX}$
 
-- [Academic CV](https://lin-jennifer.github.io/package/academic-cv/)
-- [ncfposter](https://lin-jennifer.github.io/package/ncfposter/)
+- [Academic CV](/package/academic-cv/)
+- [ncfposter](/package/ncfposter/)
