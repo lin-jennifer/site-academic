@@ -27,7 +27,7 @@ Like my [CV](https://lin-jennifer.github.io/files/CV.pdf)? I created this style 
 
 For a demo of the template, see my [CV](https://lin-jennifer.github.io/files/CV.pdf) tab in the menu bar or consult the output from the published template below.
 
-<embed src="./CV.pdf" width="100%" height="800" frameborder="0" allowfullscreen>
+<embed src="CV.pdf" width="100%" height="800" frameborder="0" allowfullscreen>
 
 ## Using This Template
 
