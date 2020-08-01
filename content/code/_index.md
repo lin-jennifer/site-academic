@@ -15,6 +15,7 @@ view: 6
 ### Packages where I am a Contributor
 
 - [icpsrdata](https://fsolt.org/icpsrdata/index.html)
+- [ropercenter](https://fsolt.org/ropercenter/index.html)
 
 ## Templates 
 
