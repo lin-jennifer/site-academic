@@ -17,6 +17,12 @@ event_url: https://www.mpsanet.org/
 featured: false
 image:
 links:
+- name: Poster
+  url: "RPPoster.pdf"
+- name: Paper
+  url: "RPPaper.pdf"
+- name: Supplimental Materials
+  url: "SupplimentalMaterials.pdf"
 - icon: github
   icon_pack: fab
   name: Open Source
@@ -30,7 +36,7 @@ summary:
 tags: []
 title: Will God's Grace Guide My Vote?
 url_code: ""
-url_pdf: "ReligiousPrimes.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---

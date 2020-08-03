@@ -18,6 +18,8 @@ event_url: https://lucid.wisc.edu/elucid8/
 featured: false
 image:
 links:
+- name: Conference Program
+  url: "PREP19Program.pdf"
 location: University of Wisconsin--Madison
 math: true
 projects:
