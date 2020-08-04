@@ -22,27 +22,48 @@
  # name = "Projects"
  # url = "#projects"
  # weight = 20
+ 
+[[main]]
+  name = "Research"
+  url = "research/"
+  identifier = "research"
+  weight = 10
 
 [[main]]
   name = "Publications"
   url = "publication/"
-  weight = 10
+  parent = "research"
+  weight = 11
 
 [[main]]
   name = "Presentations"
   url = "talk/"
-  weight = 20
-  
-[[main]]
-  name = "Research"
-  url = "research/"
-  weight = 50
+  parent = "research"
+  weight = 12
 
 [[main]]
+  name = "Ongoing Projects"
+  url = "research/"
+  parent = "research"
+  weight = 13
+  
+[[main]]
    name = "Teaching"
+   identifier = "teaching"
+   weight = 20
+  
+[[main]]
+   name = "Experience"
    url = "teaching/"
-   weight = 60
-   
+   parent = "teaching"
+   weight = 21
+
+#[[main]]
+ #  name = "Course Materials"
+ #  url = "courses/"
+ #  parent = "teaching"
+ #  weight = 22
+
 [[main]]
    name = "Blog"
    url = "post/"
