@@ -30,6 +30,11 @@ subtitle = "Works in Progress"
     publication_type = ""
     author = ""
     exclude_featured = false
+
+[content.archive]
+    enable = true
+    text = "See all Ongoing Projects"
+    link = "research/"
   
 [design]
   # Toggle between the various page layout types.

@@ -32,6 +32,12 @@ subtitle = ""
     exclude_featured = false
     exclude_past = false
     exclude_future = false
+
+[content.archive]
+    enable = true
+    text = "See all Conference Presentations"
+    link = "talk/"
+
     
 [design]
   # Toggle between the various page layout types.

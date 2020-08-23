@@ -58,6 +58,11 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+li > p {
+  // Override the default paragraph margin for paragraphs within lists.
+  margin-bottom: 0;
+}
+
 ul.task-list {
   list-style: none;
 }
@@ -122,6 +127,16 @@ h3.article-title a:hover {
 a:hover,
 a:focus {
   color: $sta-link-hover;
+}
+
+.dark a,
+.dark h3.article-title a:hover {
+  color: $sta-dark-link;
+}
+
+.dark a:hover,
+.dark a:focus {
+  color: $sta-dark-link-hover;
 }
 
 img,
@@ -432,7 +447,7 @@ a.badge:hover {
 .btn {
   padding: .5rem;
   font-size: .8rem;
-  line-height: .5;
+  line-height: .9;  // Anything less and multiline button text may overlap.
   border-radius: .3rem;
 }
 
