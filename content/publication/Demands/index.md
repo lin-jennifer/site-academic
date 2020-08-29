@@ -4,14 +4,18 @@ authors:
 - Dino P. Christenson
 - admin
 - Todd Makse
-date: "2019-03-02T15:00:00Z"
+date: "2020-08-28T15:00:00Z"
 image:
 links:
 math: true
 projects:
-publishDate: "2019-03-02T15:00:00Z"
+publishDate: "2020-08-28T15:00:00Z"
+publication: In *American Politics Research*
+publication_short: In *American Politics Research*
+publication_types:
+- "2"
 slides: 
-summary: 
+summary: How do citizens determine what they desire in the representatives they elect? The experiments in this paper suggest that citizens are quite egocentric when determining which members of Congress they want to represent them in government.
 tags: []
 title: Ask Only What Your Country Can Do for You$:$ Group Interests, Constituency Characteristics, and Demands for Representation
 url_code: ""
