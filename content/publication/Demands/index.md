@@ -9,7 +9,7 @@ image:
 links:
 math: true
 projects:
-publishDate: "2020-08-28T15:00:00Z"
+publishDate: "2020-08-28T16:00:00Z"
 publication: In *American Politics Research*
 publication_short: In *American Politics Research*
 publication_types:
