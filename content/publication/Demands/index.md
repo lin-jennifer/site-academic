@@ -15,7 +15,7 @@ publication_short: In *American Politics Research*
 publication_types:
 - "2"
 slides: 
-summary: How do citizens determine what they desire in the representatives they elect? The experiments in this paper suggest that citizens are quite egocentric when determining which members of Congress they want to represent them in government.
+summary: Experiments designed to understand how citizens determine who they want to represent them in Congress.
 tags: []
 title: Ask Only What Your Country Can Do for You$:$ Group Interests, Constituency Characteristics, and Demands for Representation
 url_code: ""
