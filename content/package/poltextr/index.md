@@ -3,7 +3,6 @@ title: Library of Political Texts (poltextr)
 author: ''
 date: '2020-07-05'
 slug: poltextr
-draft: true
 categories:
   - Code
   - Documentation
@@ -21,7 +20,7 @@ image:
 projects: []
 ---
 
-<IMG src="/code/poltextr.png" align=right border=20px HSPACE=”50” VSPACE=”50”>
+<IMG src="/package/poltextr.png" align=right border=20px HSPACE=”50” VSPACE=”50”>
 
 To easily access any textual data that I use in my research in R, I created an R package that stores the corpuses.
 
@@ -59,5 +58,22 @@ data(dnc16_meta) # Loads DNC metadata from 2016
 
 ## National Convention Speeches
 
-### 2016 (Democrats and Republicans)
+### Years Included (and Parties)
+- 2020 (Democrat and Republican)
+- 2016 (Democrat and Republican)
 
+## Political Party Platforms
+
+*Feature is Still in the Works*
+
+### Categories
+
+- Democrat Party Platform
+- Republican Party Platform
+
+## Presidential Debates
+
+*Feature is Still in the Works*
+
+### Election Years
+- 2016

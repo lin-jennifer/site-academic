@@ -10,7 +10,7 @@ view: 6
 
 ### Packages I created
 
-- poltextr -- *Coming Soon*
+- [poltextr](/package/poltextr/) -- *In Progress*
 
 ### Packages where I am a Contributor
 

@@ -12,7 +12,7 @@ math: true
 projects:
 publishDate: "2020-08-15"
 slides: 
-summary: 
+summary: Surveys of respondents in all 50 states that explore public opinion on major issues during the COVID-19 pandemic. 
 tags: []
 title: The State of the Nation -- A 50-State Survey of COVID-19
 subtitle: with David Lazer, Matthew Baum, Katherine Ognyanova, John Della Volpe, Roy H. Perlis, James Druckman, and Mauricio Santillana
