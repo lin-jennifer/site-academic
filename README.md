@@ -16,4 +16,4 @@ Either way: PUSH `lin-jennifer.github.io` to the master branch
 
 # Updating
 
-The github is now wowchemy/starter-academic
+The github is now wowchemy/starter-academic at https://wowchemy.com/docs/install-locally/
