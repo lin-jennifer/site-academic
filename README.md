@@ -14,3 +14,6 @@ Either way: PUSH `lin-jennifer.github.io` to the master branch
 
 *It is recommended that you try all three methods at least once because we don't know for sure yet which one will work 100% of the time.*
 
+# Updating
+
+The github is now wowchemy/starter-academic

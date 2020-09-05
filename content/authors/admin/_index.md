@@ -42,4 +42,4 @@ I am a Ph.D. Student in Political Science at Northwestern University. I study Am
 
 I am a member of the [Political Science Research Lab](http://faculty.wcas.northwestern.edu/~jnd260/lab.html) directed by Dr. James N. Druckman.
 
-
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
