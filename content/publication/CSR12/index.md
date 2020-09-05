@@ -26,7 +26,7 @@ publication_types:
 slides: 
 summary: Approval Ratings of Governors
 tags: []
-title: The state of the nation$:$ A 50-state COVID-19 survey, Report 12$:$ Executive Approval Update
+title: The State of the Nation$:$ A 50-State COVID-19 Survey, Report 12$:$ Executive Approval Update
 url_code: ""
 url_pdf: ""
 url_slides: ""
