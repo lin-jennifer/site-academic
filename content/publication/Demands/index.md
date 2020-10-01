@@ -4,12 +4,16 @@ authors:
 - Dino P. Christenson
 - admin
 - Todd Makse
-date: "2020-08-28T15:00:00Z"
+date: "2020-10-01T15:00:00Z"
 image:
 links:
+- icon: doi
+  icon_pack: ai
+  name: DOI
+  url: https://doi.org/10.1177/1532673X20961028
 math: true
 projects:
-publishDate: "2020-08-28T16:00:00Z"
+publishDate: "2020-10-01T16:00:00Z"
 publication: In *American Politics Research*
 publication_short: In *American Politics Research*
 publication_types:
