@@ -26,7 +26,7 @@ publication_types:
 slides: 
 summary: How long do people wait to get test results?
 tags: []
-title: The State of the Nation$:$ A 50-State COVID-19 Survey, Report 16$:$ COVID-19 Test Result Times
+title: The State of the Nation$:$ A 50-State COVID-19 Survey, Report 17$:$ COVID-19 Test Result Times
 url_code: ""
 url_pdf: ""
 url_slides: ""
