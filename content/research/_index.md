@@ -3,7 +3,7 @@ header:
   caption: ""
   image: ""
 title: Ongoing Research Projects
-view: 4
+view: 2
 ---
  
 

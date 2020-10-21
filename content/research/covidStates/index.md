@@ -24,12 +24,9 @@ url_video: ""
 
 ## Published Materials
 
-### Papers
-
-
 ### Data Reports
 
-- Report 12: Executive Approval Update
+- Report 12: [Executive Approval Update](https://lin-jennifer.github.io/publication/csr12/CSR12.pdf)
+- Report 13: [Public Trust and Vaccine Acceptance](https://lin-jennifer.github.io/publication/csr13/CSR13.pdf)
+- Report 14: [Misinformation and Vaccine Acceptance](https://lin-jennifer.github.io/publication/csr14/CSR14.pdf)
 
-
-## In Progress
