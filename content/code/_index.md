@@ -10,7 +10,8 @@ view: 6
 
 ### Packages I created
 
-- [poltextr](/package/poltextr/) -- *In Progress*
+- [lin](/package/lin/) -- Collection of Functions I Often Use
+- [poltextr](/package/poltextr/) -- Library of Political Texts -- *In Progress*
 
 ### Packages where I am a Contributor
 
