@@ -37,6 +37,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-0661-6995
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=qjwl48cAAAAJ&hl=en&authuser=1
 superuser: true
 title: Jennifer Lin
 ---
