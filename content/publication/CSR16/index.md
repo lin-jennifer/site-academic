@@ -35,4 +35,12 @@ url_slides: ""
 url_video: ""
 ---
 
-*This report was also published in the [Washington Post's Monkey Cage](https://www.washingtonpost.com/politics/2020/10/20/these-9-swing-states-will-see-biggest-blue-shift-ballots-are-counted-after-election/) -- Full text PDF is included in the "Blog" Button above.*
+## Media Coverage
+
+This report was also published in the [Washington Post's Monkey Cage](https://www.washingtonpost.com/politics/2020/10/20/these-9-swing-states-will-see-biggest-blue-shift-ballots-are-counted-after-election/) -- Full text PDF is included in the "Blog" Button above.
+
+## On Twitter
+
+{{< tweet 1324752880096714752 >}}
+
+{{< tweet 1323405743358386187 >}}
