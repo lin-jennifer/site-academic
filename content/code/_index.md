@@ -11,6 +11,7 @@ view: 6
 ### Packages I created
 
 - [lin](/package/lin/) -- Collection of Functions I Often Use
+- [polstat](/package/polstat/) -- Companion Functions for Learning Statistics
 - [poltextr](/package/poltextr/) -- Library of Political Texts -- *In Progress*
 
 ### Packages where I am a Contributor
