@@ -9,7 +9,7 @@ address:
 all_day: false
 authors:
 - admin
-date: "2020-11-20T02:00 PM"
+date: "2020-11-20T14:00:00Z"
 date_end: 
 event: Midwest Association for Public Opinion Research
 event_url: http://www.mapor.org/2020-annual-conference/
@@ -20,6 +20,8 @@ links:
   icon_pack: fab
   name: Open Source
   url: https://github.com/lin-jennifer
+- name: Program
+  url: "MAPOR20program.pdf"
 location: Online
 math: true
 projects:
