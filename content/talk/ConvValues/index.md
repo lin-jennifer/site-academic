@@ -16,12 +16,8 @@ event_url: http://www.mapor.org/2020-annual-conference/
 featured: false
 image:
 links:
-- icon: github
-  icon_pack: fab
-  name: Open Source
-  url: https://github.com/lin-jennifer
 - name: Program
-  url: "MAPOR20program.pdf"
+  url: https://drive.google.com/file/d/1PcqOBE1kilNX3dPfaY8psPwCGHDrrPro/view?usp=sharing
 location: Online
 math: true
 projects:
