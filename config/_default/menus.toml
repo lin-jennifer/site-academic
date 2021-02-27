@@ -75,9 +75,14 @@
    weight = 80
 
 [[main]]
+   name = "Data"
+   url = "DataViz/"
+   weight = 90
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 90
+  weight = 100
 
 
 # Link to a PDF of your resume/CV from the menu.
