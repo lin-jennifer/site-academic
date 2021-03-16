@@ -19,7 +19,7 @@ image:
 links:
 math: true
 projects:
-publishDate: "2020-11-02T16:00:00Z"
+publishDate: "2020-11-26T16:00:00Z"
 publication: In *COVID-19 Consortium for Understanding the Public’s Policy Preferences Across States*
 publication_short: In *COVID States*
 publication_types:

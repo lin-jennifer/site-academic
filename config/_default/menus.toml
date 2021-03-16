@@ -58,11 +58,11 @@
    parent = "teaching"
    weight = 21
 
-#[[main]]
- #  name = "Course Materials"
- #  url = "courses/"
- #  parent = "teaching"
- #  weight = 22
+[[main]]
+   name = "Course Materials"
+   url = "courses/"
+   parent = "teaching"
+   weight = 22
 
 [[main]]
    name = "Blog"
