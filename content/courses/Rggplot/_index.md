@@ -1,6 +1,6 @@
 ---
 date: "2021-03-15T00:00:00Z"
-draft: true
+draft: false
 lastmod: "2021-03-15T00:00:00Z"
 linktitle: R Workshop$:$ Pipes and `ggplot`
 menu:
@@ -14,3 +14,6 @@ type: docs
 weight: 1
 ---
 
+# Course Handout
+
+[pdf](./Plpes_ggplot_Rhandout.pdf)
