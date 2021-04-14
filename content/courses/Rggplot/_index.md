@@ -4,7 +4,11 @@ draft: false
 lastmod: "2021-03-15T00:00:00Z"
 linktitle: R Workshop$:$ Pipes and `ggplot`
 summary: R Workshop on pipes and `ggplot`
-title: Overview and Materials
+menu:
+  Rggplot:
+    name: Overview
+    weight: 1
+title: R Workshop$:$ Pipes and `ggplot`
 toc: false
 type: docs
 weight: 1
@@ -46,7 +50,7 @@ To complement this workshop, I prepared a cleaned version of the 2018 Cooperativ
 |`ideo3`|Ideology 3 category|
 |`Age`|Respondent Age|
 
-You may access the data and all the course materials in the esction below.
+You may access the data and all the course materials in the section below.
 
 # Course Materials
 
