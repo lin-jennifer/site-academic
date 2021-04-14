@@ -56,5 +56,5 @@ You may access the data and all the course materials in the section below.
 
 - Course Handout ([PDF](./Plpes_ggplot_Rhandout.pdf))
 - GitHub (https://github.com/lin-jennifer/ggplot-workshop)
-- Slides ([HTML](./Presentation.html))
+- Slides (PSF](./Presentation.pdf))
 - Data ([CSV](CCES18_subset.csv))
