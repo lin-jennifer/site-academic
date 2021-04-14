@@ -3,7 +3,7 @@ name = "jlin_fonts"
 
 # Optional Google font URL
 #google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
-google_fonts = "family=Noto+Sans+SC:700&family=DM+Sans:400,400italic,700&family=Fira+Mono"
+google_fonts = "family=Noto+Sans+SC:wght@700&family=DM+Sans:ital,wght@0,400;0,700;1,400&family=Fira+Mono"
 
 
 # Font families

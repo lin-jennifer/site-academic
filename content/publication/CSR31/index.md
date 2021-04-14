@@ -27,7 +27,7 @@ publication_types:
 slides: 
 summary: Update on Data on the trajectory of Health Related Behaviors in all 50 United States
 tags: []
-title: The State of the Nation$:$ A 50-State COVID-19 Survey, Report 26$:$ Update on the Trajectory of Health-Related Behaviors
+title: The State of the Nation$:$ A 50-State COVID-19 Survey, Report 31$:$ Update on the Trajectory of Health-Related Behaviors
 url_code: ""
 url_pdf: ""
 url_slides: ""
