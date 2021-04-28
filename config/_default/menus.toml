@@ -37,7 +37,7 @@
 
 [[main]]
   name = "Presentations"
-  url = "talk/"
+  url = "talks/"
   parent = "research"
   weight = 12
 
