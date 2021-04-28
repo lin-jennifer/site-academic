@@ -3,7 +3,7 @@ header:
   caption: ""
   image: ""
 title: Data and Visualization Projects 
-view: 6
+view: 2
 ---
 
 ## Data

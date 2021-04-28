@@ -9,7 +9,7 @@ address:
 all_day: false
 authors:
 - admin
-date: "2021-04-15T14:00:00Z"
+date: "2021-05-03T14:00:00Z"
 date_end: 
 event: New College of Florida Natural Science Seminar Series
 event_url: 
@@ -19,7 +19,7 @@ links:
 location: Online
 math: true
 projects:
-publishDate: "2021-05-03T10:00:00Z"
+publishDate: "2021-04-03T10:00:00Z"
 slides: 
 summary: 
 tags: []
