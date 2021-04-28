@@ -31,7 +31,7 @@
 
 [[main]]
   name = "Publications"
-  url = "publication/"
+  url = "writing/"
   parent = "research"
   weight = 11
 
