@@ -12,7 +12,7 @@ featured: false
 publication: In *the Florida Political Chronicle*
 publication_short: In *FPSA Chronicle*
 publication_types:
-- "2"
+- "4"
 publishDate: "2019-08-01"
 summary: An analysis of the vote shares in Florida for the 2018 Midterm elections using the Florida Voter File.
 tags:

@@ -14,12 +14,12 @@ authors:
 - Ata Uslu
 - Adina Gitomer
 - Hanyu Chwe
-date: "2020-12-15T15:00:00Z"
+date: "2020-12-16T15:00:00Z"
 image:
 links:
 math: true
 projects:
-publishDate: "2020-12-19T16:00:00Z"
+publishDate: "2020-12-20T16:00:00Z"
 publication: In *COVID-19 Consortium for Understanding the Public’s Policy Preferences Across States*
 publication_short: In *COVID States*
 publication_types:
