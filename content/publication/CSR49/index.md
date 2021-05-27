@@ -14,12 +14,12 @@ authors:
 - Adina Gitomer
 - Alexi Quintana
 - admin
-date: "2021-05-03T15:00:00Z"
+date: "2021-05-01T15:00:00Z"
 image:
 links:
 math: true
 projects:
-publishDate: "2021-05-03T15:00:00Z"
+publishDate: "2021-05-01T15:00:00Z"
 publication: In *COVID-19 Consortium for Understanding the Public’s Policy Preferences Across States*
 publication_short: In *COVID States*
 publication_types:
