@@ -5,6 +5,10 @@ header:
 title: Teaching Experience
 ---
 
+### As Instructor at Northwestern University
+
+- **Workshop**: R and ggplot (*Spring 2021*)
+
 ### As Teaching Assistant at Northwestern University
 
 ### As Teaching Assistant at New College of Florida
