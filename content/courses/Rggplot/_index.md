@@ -2,13 +2,13 @@
 date: "2021-03-15T00:00:00Z"
 draft: false
 lastmod: "2021-03-15T00:00:00Z"
-linktitle: R Workshop$:$ Pipes and `ggplot`
-summary: R Workshop on pipes and `ggplot`
+linktitle: R Workshop$:$ Pipes and ggplot
+summary: R Workshop on pipes and ggplot
 menu:
   Rggplot:
-    name: Overview
+    name: 
     weight: 1
-title: R Workshop$:$ Pipes and `ggplot`
+title: R Workshop$:$ Pipes and ggplot
 toc: false
 type: docs
 weight: 1
@@ -52,7 +52,7 @@ To complement this workshop, I prepared a cleaned version of the 2018 Cooperativ
 
 You may access the data and all the course materials in the section below.
 
-# Course Materials
+## Course Materials
 
 - Course Handout ([PDF](./Plpes_ggplot_Rhandout.pdf))
 - GitHub (https://github.com/lin-jennifer/ggplot-workshop)

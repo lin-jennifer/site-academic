@@ -15,6 +15,10 @@ authors:
 date: "2021-07-07T15:00:00Z"
 image:
 links:
+- icon: doi
+  icon_pack: ai
+  name: DOI
+  url: https://doi.org/10.1002/da.23203
 math: true
 projects:
 publishDate: "2021-07-07T15:00:00Z"
