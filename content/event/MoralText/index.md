@@ -31,7 +31,7 @@ summary: I analyze the 2016 Democrat and Republican National Convention speeches
 tags: []
 title: Democrats and Republicans Communicate Different Moral Values through their 2016 National Convention Speeches
 url_code: ""
-url_pdf: "MoralText.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 ---
