@@ -27,7 +27,7 @@ publication_types:
 slides: 
 summary: What Americans think about people who are not vaccinated compared to people who are vaccinated
 tags: []
-title: The State of the Nation$:$ A 50-State COVID-19 Survey, Report 58$:$ What Americans Think About People Who Are Not Vaccinated
+title: The State of the Nation$:$ A 50-State COVID-19 Survey, Report 59$:$ What Americans Think About People Who Are Not Vaccinated
 url_code: ""
 url_pdf: ""
 url_slides: ""

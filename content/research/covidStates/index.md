@@ -75,3 +75,5 @@ Reprots indicated with $^{*}$ indicates reports that I led, co-led or oversaw.
 - Report 57: [Social Media News Consumption and COVID-19 Vaccination Rates](https://osf.io/uvqbs/)
 - Report 58: [High Public Support for Mandating Vaccines](https://osf.io/6wcn9/)
 - Report 59$^{*}$: [What Americans Think About People Who Are Not Vaccinated](https://osf.io/fy6jz/)
+- Report 60: [Vaccine misinformation: From uncertainty to resistance](https://osf.io/xtjad/)
+- Report 61$^{*}$: [Parental concerns about COVID-19 vaccines](https://osf.io/c2xmj/)
