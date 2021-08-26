@@ -1,6 +1,6 @@
 ---
 date: "2021-08-08T00:00:00Z"
-draft: true
+draft: false
 lastmod: "2021-08-08T00:00:00Z"
 linktitle: Zotero Workshop
 summary: Introduction to Zotero for Undergraduate Students
