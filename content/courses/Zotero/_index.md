@@ -5,7 +5,7 @@ lastmod: "2021-08-08T00:00:00Z"
 linktitle: Zotero Workshop
 summary: Introduction to Zotero for Undergraduate Students
 menu:
-  Zotero:
+  zotero:
     name: 
     weight: 1
 title: Zotero$:$ Bibliography Nightmares No More!
