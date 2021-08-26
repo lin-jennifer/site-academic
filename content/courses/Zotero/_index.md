@@ -16,7 +16,7 @@ weight: 1
 
 ## Overview
 
-The goal of this course is to introduce students to citation managers (namely, Zotero) as a resource to manage references for papers and research projects. This course covers why using citation managers is important, how to use a citation manager and the application to a student's personal research interests.
+The goal of this workshop is to introduce students to citation managers (namely, Zotero) as a resource to manage references for papers and research projects. This workshop covers why using citation managers is important, how to use a citation manager and the application to a student's personal research interests.
 
 ## Learning Goals
 
