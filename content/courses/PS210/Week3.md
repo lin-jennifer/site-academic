@@ -34,26 +34,38 @@ First, what is a **sample**? To figure that out, we need to know what is part of
 
 When designing a study, your **sample** is a selection of the units in the population and it should resemble the entire group of interest. There are many ways to pick a sample and there are positives and negatives of each method
 
-1. **Sampling of Convenience**: Select cases that are easily accessible
-    a. EXAMPLE: Stand outside of dining hall and interview everyone trying to go in
+1. **Sampling of Convenience**: Select cases that are easily accessible. 
+
+	a. EXAMPLE: Stand outside of dining hall and interview everyone trying to go in
+	
     b. EXAMPLE: Polls on FOX, CNN, etc.
+    
 2. **Quota Samples** are where you modify the convenience sample to make it more like the population
+    
     a. This is also known as **non-probability sampling**
+    
     b. This is often used in online survey marketplaces and Amazon Mechanical Turk
-    c. EXAMPLE: The COVID States Project: https://covidstates.org/
-        - We want to know political attitudes and behaviors of people in each US State
-        - We conduct online samples to get respondents from each US State
-        - Each state has a quota of 300-500 per wave, depending on size
+    
+    c. EXAMPLE: The COVID States Project: https://covidstates.org/    
+        - We want to know political attitudes and behaviors of people in each US State    
+        - We conduct online samples to get respondents from each US State    
+        - Each state has a quota of 300-500 per wave, depending on size.   
         - Within each state, we do race, gender and age cross tabs so that each bucket gets a fix number equivalent to their percent in the state.
+
 3. **Random Sampling** is where each case has an equal and known probability of being selected
+    
     a. Also known as **Probability Sampling**
+    
     b. Often done by Random Digit Dialing
+   
     c. EXAMPLE: Kaiser Family Foundation (Random Digit Dialing)
+    
     d. **Law of Large Numbers**: Random Sampling gives us a good approximation of the population with a large enough population
-    e. Types of Random Samples:
-        1. **Simple Random Sample**: Each person has the same probability of being included
-        2. **Cluster Sample**: Group participants into meaningful subgroups and select the subgroup to its entirety
-        3. **Stratified Random Sampling**: Group participants into meaningful subgroups and select samples from the subgroup where EACH member of the subgroup has the same probability of selection
+    
+    e. Types of Random Samples:  
+        1. **Simple Random Sample**: Each person has the same probability of being included.   
+        2. **Cluster Sample**: Group participants into meaningful subgroups and select the subgroup to its entirety.   
+        3. **Stratified Random Sampling**: Group participants into meaningful subgroups and select samples from the subgroup where EACH member of the subgroup has the same probability of selection. 
 
 ### Issues with Surveys
 
