@@ -48,6 +48,8 @@ I am a Ph.D. Student in Political Science at Northwestern University. I study Am
 
 I am a member of the [Political Science Research Lab](http://faculty.wcas.northwestern.edu/~jnd260/lab.html) directed by Dr. James N. Druckman.
 
-{{< icon name="download" pack="fas" >}} Download a copy of my {{< staticref "files/ResLin.pdf" "newtab" >}}resumé{{< /staticref >}} or {{< staticref "files/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download a copy of my {{< staticref "files/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+<!--{{< staticref "files/ResLin.pdf" "newtab" >}}resumé{{< /staticref >}} or-->
 
 {{< icon name="external-link-alt" pack="fas" >}} [View My Profile](https://www.polisci.northwestern.edu/people/graduate-students/jennifer-lin.html) on the Northwestern Political Science Department website.
