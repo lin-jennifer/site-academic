@@ -21,12 +21,12 @@ links:
 math: true
 projects:
 publishDate: "2021-06-07T15:00:00Z"
-publication: In *Depression and Anxiety*
-publication_short: In *Depression and Anxiety*
+publication: Depression and Anxiety
+publication_short: Depression and Anxiety
 publication_types:
 - "2"
 slides: 
-summary: Persistance of symptoms after COVID-19 infection
+summary: Persistence of symptoms after COVID-19 infection
 tags: []
 title: Persistence of Symptoms up to 10 Months Following Acute COVID-19 Illness
 url_code: ""

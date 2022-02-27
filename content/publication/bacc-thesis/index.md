@@ -14,8 +14,8 @@ links:
   url: https://github.com/lin-jennifer/MoralityReplication
   icon_pack: fab
   icon: github
-publication: In *New College of Florida Thesis Collections*
-publication_short: In *NCF Thesis Collections*
+publication: New College of Florida Thesis Collections
+publication_short: NCF Thesis Collections
 publication_types:
 - "7"
 publishDate: "2020-05-01"

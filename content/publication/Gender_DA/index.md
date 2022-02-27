@@ -22,8 +22,8 @@ links:
 math: true
 projects:
 publishDate: "2021-07-07T15:00:00Z"
-publication: In *Depression and Anxiety*
-publication_short: In *Depression and Anxiety*
+publication: Depression and Anxiety
+publication_short: Depression and Anxiety
 publication_types:
 - "2"
 slides: 

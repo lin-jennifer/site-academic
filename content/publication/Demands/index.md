@@ -14,8 +14,8 @@ links:
 math: true
 projects:
 publishDate: "2020-10-01T16:00:00Z"
-publication: In *American Politics Research*
-publication_short: In *American Politics Research*
+publication: American Politics Research
+publication_short: American Politics Research
 publication_types:
 - "2"
 slides: 
