@@ -20,7 +20,7 @@ interests:
 organizations:
 - name: Northwestern University
   url: "https://www.polisci.northwestern.edu/"
-role: Ph.D. Student in Political Science
+role: Ph.D. Candidate in Political Science
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,11 +40,14 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=qjwl48cAAAAJ&hl=en&authuser=1
+- icon: dataverse
+  icon_pack: ai
+  link: https://dataverse.harvard.edu/dataverse/jenniferlin
 superuser: true
 title: Jennifer Lin
 ---
 
-I am a Ph.D. Student in Political Science at Northwestern University. I study American politics, specifically focused in political psychology, political behavior and public opinion. I also study political methodology with a focus on experiments, surveys and quantitative research methods.
+I am a Ph.D. Candidate in Political Science at Northwestern University. I study American politics, specifically focused in political psychology, political behavior and public opinion. I also study political methodology with a focus on experiments, surveys and quantitative research methods.
 
 I am a member of the [Political Science Research Lab](http://faculty.wcas.northwestern.edu/~jnd260/lab.html) directed by Dr. James N. Druckman.
 

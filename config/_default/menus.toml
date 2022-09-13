@@ -65,6 +65,12 @@
    weight = 22
 
 [[main]]
+   name = "Tutorials"
+   url = "tutorial/"
+   parent = "teaching"
+   weight = 23
+
+[[main]]
    name = "Blog"
    url = "post/"
    weight = 70
