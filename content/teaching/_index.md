@@ -10,7 +10,9 @@ title: Teaching Experience
 ### As Teaching Assistant at Northwestern University
 
 - **DECS 435:** Business Analytics -- Jorg Spenkuch (*Fall 2022* -- Kellogg School of Management MBAi)
+	- [Section Syllabus](./syllabus/Syllabus_DECS435.pdf)
 - **PS 403:** Introduction to Probability and Statistics -- Jason Seawright (*Fall 2022* -- Graduate)
+	- [Section Syllabus](./syllabus/Syllabus_PS403.pdf)
 - **MMSS 211:** Institutions, Rules, & Models in Social Science -- Jean Clipperton (*Spring 2022* -- Undergraduate)
 - **MORS 457:** Social Dynamics and Network Analysis -- Hyejin Youn (*Winter 2022* -- Kellogg School of Management MBA)
 - **PS 210:** Introduction to Empirical Methods -- Jason Seawright (*Fall 2021* -- Undergraduate)  
