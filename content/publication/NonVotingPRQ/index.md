@@ -10,6 +10,10 @@ links:
   icon_pack: ai
   name: DOI
   url: https://doi.org/10.1177%2F10659129221119195
+- icon: dataverse
+  icon_pack: ai
+  name: Replication Files
+  url: https://doi.org/10.7910/DVN/UIUV3U
 math: true
 projects:
 publishDate: "2022-08-11T16:00:00Z"

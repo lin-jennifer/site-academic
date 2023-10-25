@@ -23,8 +23,8 @@ weight: 1
 
 ## Regressions
 
-- [Regressions Slides (PDF)](./session2/Regressions_SLIDES.pdf)
-- [Regressions Notes (PDF)](./session2/Regressions_NOTES.pdf)
+- [Regressions Slides (PDF)](./session2/Regression_SLIDES.pdf)
+- [Regressions Notes (PDF)](./session2/Regression_NOTES.pdf)
 
 ## Graphing
 
