@@ -35,17 +35,17 @@
   parent = "research"
   weight = 11
 
-[[main]]
-  name = "Presentations"
-  url = "talks/"
-  parent = "research"
-  weight = 12
+#[[main]]
+#  name = "Presentations"
+#  url = "talks/"
+#  parent = "research"
+#  weight = 12
 
-[[main]]
-  name = "Ongoing Projects"
-  url = "research/"
-  parent = "research"
-  weight = 13
+#[[main]]
+#  name = "Ongoing Projects"
+#  url = "research/"
+#  parent = "research"
+#  weight = 13
   
 [[main]]
    name = "Teaching"
